@@ -16,8 +16,8 @@ bool flag1 = true;
 bool flag2 = true;
 
 string s_input = "sample/";		//源图像所在文件路径
-string s_output = "result/";	//输出图像文件路径
-string s_format = ".jpg";			//图像格式
+string s_output = "result/";		//输出图像文件路径
+string s_format = ".jpg";		//图像格式
 
 ostringstream oss_input;		//拼接源图像路径
 ostringstream oss_output;		//拼接输出图像路径
